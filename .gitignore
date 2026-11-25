@@ -1,0 +1,4 @@
+Command X.app/
+*.dmg
+.DS_Store
+.build/
