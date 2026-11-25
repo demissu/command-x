@@ -21,6 +21,14 @@
 
 ---
 
+## See it in action
+
+<p align="center">
+  <img src="demo.gif" width="800" alt="Illustrated Command X file moving demo">
+</p>
+
+<p align="center"><sub>Illustrated product demonstration, not an actual screen recording. The cut-state visual is illustrative.</sub></p>
+
 ## A simpler way to move files
 
 Forget the extra Option key. Select files in Finder, cut them, navigate to your destination and paste. Command X uses Finder's native move operation.
